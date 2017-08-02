@@ -32,6 +32,7 @@ class GeneratorsServiceProvider extends ServiceProvider
             'Repository',
             'Request',
             'Route',
+            'SubAction',
             'Task',
             'Transformer'
             // Register more generator commands here..
